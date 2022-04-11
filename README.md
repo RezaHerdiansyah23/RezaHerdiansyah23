@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 💬 &nbsp;Ask me about anything related to Javascript/ or/React/Express/
 - 📫 &nbsp;How to reach me: [@rezahrdsyh](https://www.instagram.com/rezahrdsyh_/) 
 - 👨‍💻 &nbsp;Read more about my projects at [NOTHING]
 
@@ -40,9 +40,7 @@ Comming soon
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
+
 
 </details>
 
