@@ -21,14 +21,14 @@ Comming soon
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=panttech&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
 
 
+  </details>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -47,4 +47,4 @@ I am a Full Stack Developer with 8+ years of experience in developing enterprise
 </details>
 
 
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
+
