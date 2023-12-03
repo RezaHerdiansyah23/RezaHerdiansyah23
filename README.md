@@ -7,6 +7,11 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 &nbsp;How to reach me: [@rezahrdsyh](https://www.instagram.com/rezahrdsyh_/) 
 - 👨‍💻 &nbsp;Read more about my projects at [NOTHING]
 
-
+<p align="left">
+<a href="https://github.com/janepetra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RezaHerdiansyah23&theme=onedark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaHerdiansyah23&theme=onedark&show_icons=true&hide_border=true&layout=compact"/>
+</a>
+</p>
 
 
