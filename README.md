@@ -1,17 +1,42 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
+# Reza Herdiansyah
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/ or/React/Express/
-- 📫 &nbsp;How to reach me: [@rezahrdsyh](https://www.instagram.com/rezahrdsyh_/) 
-- 👨‍💻 &nbsp;Read more about my projects at [NOTHING]
+Junior Software Engineer | Mobile & Web Developer
 
-<p align="left">
-<a href="https://github.com/RezaHerdiansyah23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RezaHerdiansyah23&theme=onedark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaHerdiansyah23&theme=onedark&show_icons=true&hide_border=true&layout=compact"/>
-</a>
-</p>
+Saya adalah pengembang perangkat lunak yang berfokus pada pengembangan aplikasi Web (Frontend/Backend) dan Mobile (Android). Terbiasa membangun antarmuka responsif menggunakan React.js dan Tailwind CSS, serta merancang sistem backend RESTful API yang andal dengan Node.js, Express, dan PostgreSQL.
 
+---
 
+### Keahlian Teknis
+
+- **Bahasa Pemrograman:** JavaScript, TypeScript, Kotlin, PHP, Java
+- **Pengembangan Web (Frontend):** React.js, Vite, Tailwind CSS, HTML5, CSS3
+- **Pengembangan Web (Backend):** Node.js, Express.js, Laravel, Prisma, Sequelize
+- **Pengembangan Mobile:** Android SDK, Jetpack Compose, Arsitektur MVVM
+- **Basis Data:** PostgreSQL, MySQL
+
+---
+
+### Proyek Pilihan
+
+#### 1. [Sistem Puskeswan (Pusat Kesehatan Hewan)](https://github.com/RezaHerdiansyah23/sistemPuskeswan)
+Aplikasi web fullstack untuk layanan konsultasi kesehatan hewan online.
+- **Teknologi:** Node.js, Express.js, PostgreSQL dengan Sequelize ORM, EJS, JWT Authentication.
+- **Fitur Utama:** Autentikasi JWT, sistem CRUD konsultasi, manajemen profil pengguna, dan dashboard admin untuk verifikasi status layanan.
+
+#### 2. [Disada App - Baby Cry Detection](https://github.com/RezaHerdiansyah23/disada-app)
+Aplikasi Android untuk klasifikasi suara tangisan bayi berbasis Machine Learning (Proyek Capstone Bangkit Academy).
+- **Teknologi:** Kotlin, Jetpack Compose, Arsitektur MVVM.
+- **Fitur Utama:** Integrasi model ML langsung ke dalam aplikasi mobile, antarmuka modern yang responsif.
+
+#### 3. Dashboard Admin Exaverse (Project-Based)
+Pengembangan antarmuka dashboard admin untuk pengelolaan platform internal (Repositori Privat).
+- **Teknologi:** React.js, Tailwind CSS, REST API Integration.
+- **Kontribusi:** Membangun arsitektur komponen React yang reusable dan integrasi data real-time dari backend.
+
+---
+
+### Hubungi Saya
+
+- **Email:** rezahrdsyh@gmail.com
+- **LinkedIn:** [linkedin.com/in/reza-herdiansyah](https://linkedin.com/in/reza-herdiansyah-59b802296)
+- **Portfolio:** [portfolio-psi-orcin-85.vercel.app](https://portfolio-psi-orcin-85.vercel.app/)
