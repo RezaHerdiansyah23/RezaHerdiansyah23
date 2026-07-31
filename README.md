@@ -1,5 +1,5 @@
 # Reza Herdiansyah
-smug_ereshkigal Emoji
+[![smug_ereshkigal](https://cdn3.emoji.gg/emojis/smug_ereshkigal.png)](https://emoji.gg/emoji/smug_ereshkigal)
 Junior Software Engineer | Mobile & Web Developer
 
 Saya adalah pengembang perangkat lunak yang berfokus pada pengembangan aplikasi Web (Frontend/Backend) dan Mobile (Android). Terbiasa membangun antarmuka responsif menggunakan React.js dan Tailwind CSS, serta merancang sistem backend RESTful API yang andal dengan Node.js, Express, dan PostgreSQL.
