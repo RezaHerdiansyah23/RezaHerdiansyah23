@@ -1,11 +1,11 @@
-Reza Herdiansyah                                                                 
-                                                                    
-    [image: Smug] https://cdn3.emoji.gg/emojis/smug_ereshkigal.png [image: Baka]
-    https://cdn3.emoji.gg/emojis/5301_EreshBaka.png [image: Sparkle]                                              
-    https://cdn3.emoji.gg/emojis/4700-ereshthirst.png [image: Dead]
-    https://cdn3.emoji.gg/emojis/7741-ereshdead.png                                                               
-                       
-    Software Engineer (Android & Full-Stack Web).          
+ ![Smug](RezaHerdiansyah23 (Reza Herdiansyah) · GitHub) ![Baka](RezaHerdiansyah23 (Reza Herdiansyah) ·
+    GitHub) ![Sparkle](RezaHerdiansyah23 (Reza Herdiansyah) · GitHub) ![Dead](RezaHerdiansyah23 (Reza
+    Herdiansyah) · GitHub)
 
-    Portfolio · LinkedIn · Email                                                                     
-                                        
+    Software Engineer focusing on Android Native (Kotlin/Compose) & Full-Stack Web.
+
+    ────────────────────────────────────
+
+    • Portfolio
+    • LinkedIn
+    • Email
